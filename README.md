@@ -1,8 +1,6 @@
-# OCTANET_JUNE-task-2
-TASK-2:To do List
 # To-Do List
-
 This is a simple To-Do List project that allows you to manage and organize your tasks.
+
 
 ## Features
 
@@ -20,6 +18,5 @@ This is a simple To-Do List project that allows you to manage and organize your 
 ## Getting Started
 
 To run this project locally, follow these steps:
-
-Clone the repository: https://tniharika123.github.io/OCTANET_JUNE-task-2/
+Clone the repository: https://tniharika123.github.io/To-Do-List/
    
