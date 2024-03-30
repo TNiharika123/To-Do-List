@@ -1,5 +1,6 @@
 # To-Do List
 This is a simple To-Do List project that allows you to manage and organize your tasks.
+![image](https://github.com/TNiharika123/To-Do-List/assets/122886989/f7e43ae5-1690-49dc-835a-5894a91fbcc9)
 
 
 ## Features
